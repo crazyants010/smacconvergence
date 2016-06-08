@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserRequest>
+	<RequestId>3</RequestId>
+	<UserId>1</UserId>
+   <Location>gachi</Location>
+   <City>hyd</City>
+   <DeveloperId>1</DeveloperId>
+   <Tourist>
+	  	<Radius>3</Radius>
+   </Tourist>
+   <Veooz>50.0</Veooz>
+   <Action>post</Action>
+   <Time>10</Time>
+</UserRequest>

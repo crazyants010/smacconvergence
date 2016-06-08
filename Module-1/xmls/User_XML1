@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserRequest>
+    <UserId>1</UserId>
+    <Location></Location>
+    <City></City>
+    <DeveloperId>1</DeveloperId>
+    <Tourist>
+     	<Radius>3</Radius>
+    </Tourist>
+    <Product>
+	<ProductName></ProductName>
+	<PriceRange>
+		<Start></Start>
+		<End></End>
+     	</PriceRange>
+	<ShopRating></ShopRating>
+    </Product>
+    <Veooz></Veooz>
+    <Action></Action>    
+    <Time></Time>  
+</UserRequest>

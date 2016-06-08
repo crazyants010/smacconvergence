@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserRequest>
+    <UserId>1</UserId>
+    <Location>Gachibowli</Location>
+    <City>Hyderabad</City>
+    <Radius>3</Radius>
+    <Temperature>
+    	<Min>15</Min>
+    	<Max>40</Max>
+    </Temperature>
+    <Veooz>80</Veooz>
+    <Action>Post</Action>    
+    <Time>2</Time>  
+</UserRequest>

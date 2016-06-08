@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserRequest>
+	<RequestId>2</RequestId>
+	<UserId>1</UserId>
+   <Location>gachi</Location>
+   <City>hyd</City>
+   <DeveloperId>2</DeveloperId>
+   <Product>
+		<ProductName>WM</ProductName>
+		<PriceRange>
+			<Start>0</Start>
+			<End>12500</End>
+     	</PriceRange>
+		<ShopRating>4</ShopRating>
+	</Product>
+   <Veooz>50.0</Veooz>
+   <Action>post</Action>
+   <Time>10</Time>
+</UserRequest>

@@ -1,0 +1,273 @@
+    <DOCUMENT>
+       <Product-info>
+	<Product>
+         <Product-name>washing machine</Product-name>
+	  <url multiple="no">http://pricesinindia.ebest.in/washingmachine_prices_in_hyderabad_6.html</url>
+	  <checks>
+	   <check>
+	    <tag>td</tag>
+	     <attribute>style</attribute>
+	      <attribute-value>padding-left:10px; font-weight:bold</attribute-value>
+	     </check> 
+	      <check>
+	    <tag>td</tag>
+	     <attribute>style</attribute>
+	      <attribute-value>color:#800517; font-weight:bold</attribute-value>
+	     </check> 
+	      <check>
+	    <tag>a</tag>
+	     <attribute>style</attribute>
+	      <attribute-value>text-decoration:none; color:#347235; font-weight:bold</attribute-value>
+	     </check> 
+	   </checks>
+          </Product>
+          
+          
+	<Product>
+         <Product-name>tv</Product-name>
+	  <url multiple="no">http://pricesinindia.ebest.in/tv_prices_in_hyderabad_6.html</url>
+	  <checks>
+	   <check>
+	    <tag>td</tag>
+	     <attribute>style</attribute>
+	      <attribute-value>padding-left:10px; font-weight:bold</attribute-value>
+	     </check> 
+	      <check>
+	    <tag>td</tag>
+	     <attribute>style</attribute>
+	      <attribute-value>color:#800517; font-weight:bold</attribute-value>
+	     </check> 
+	      <check>
+	    <tag>a</tag>
+	     <attribute>style</attribute>
+	      <attribute-value>text-decoration:none; color:#347235; font-weight:bold</attribute-value>
+	     </check> 
+	   </checks>
+          </Product>
+          
+          
+	<Product>
+         <Product-name>printer</Product-name>
+	  <url multiple="no">http://pricesinindia.ebest.in/printer_prices_in_hyderabad_6.html</url>
+	  <checks>
+	  <check>
+	    <tag>td</tag>
+	     <attribute>style</attribute>
+	      <attribute-value>padding-left:10px; font-weight:bold</attribute-value>
+	     </check> 
+	      <check>
+	    <tag>td</tag>
+	     <attribute>style</attribute>
+	      <attribute-value>color:#800517; font-weight:bold</attribute-value>
+	     </check> 
+	      <check>
+	    <tag>a</tag>
+	     <attribute>style</attribute>
+	      <attribute-value>text-decoration:none; color:#347235; font-weight:bold</attribute-value>
+	     </check> 
+	   </checks>
+          </Product>
+          
+          
+	<Product>
+         <Product-name>laptop</Product-name>
+	  <url multiple="no">http://pricesinindia.ebest.in/laptop_prices_in_hyderabad_6.html</url>
+	  <checks>
+	    <check>
+	    <tag>td</tag>
+	     <attribute>style</attribute>
+	      <attribute-value>padding-left:10px; font-weight:bold</attribute-value>
+	     </check> 
+	      <check>
+	    <tag>td</tag>
+	     <attribute>style</attribute>
+	      <attribute-value>color:#800517; font-weight:bold</attribute-value>
+	     </check> 
+	      <check>
+	    <tag>a</tag>
+	     <attribute>style</attribute>
+	      <attribute-value>text-decoration:none; color:#347235; font-weight:bold</attribute-value>
+	     </check> 
+	   </checks>
+          </Product>
+	
+	<Product>
+         <Product-name>ac</Product-name>
+	  <url multiple="no">http://pricesinindia.ebest.in/airconditioners_prices_in_hyderabad_6.html</url>
+	  <checks>
+	    <check>
+	    <tag>td</tag>
+	     <attribute>style</attribute>
+	      <attribute-value>padding-left:10px; font-weight:bold</attribute-value>
+	     </check> 
+	      <check>
+	    <tag>td</tag>
+	     <attribute>style</attribute>
+	      <attribute-value>color:#800517; font-weight:bold</attribute-value>
+	     </check> 
+	      <check>
+	    <tag>a</tag>
+	     <attribute>style</attribute>
+	      <attribute-value>text-decoration:none; color:#347235; font-weight:bold</attribute-value>
+	     </check> 
+	   </checks>
+          </Product>
+          
+          <Product>
+         <Product-name>mobile phones</Product-name>
+	  <url multiple="yes">http://www.mobilepriceindia.co.in/search-price</url>
+	  <checks>
+	    <check>
+	    <tag>div</tag>
+	     <attribute>id</attribute>
+	      <attribute-value>searchstat</attribute-value>
+	     </check> 
+	      <check>
+	    <tag>div</tag>
+	     <attribute>class</attribute>
+	      <attribute-value>productdetails_productname</attribute-value>
+	     </check> 
+	      <check>
+	    <tag>div</tag>
+	     <attribute>class</attribute>
+	      <attribute-value>productdetails_productdescription</attribute-value>
+	     </check> 
+	      <check>
+	    <tag>div</tag>
+	     <attribute>class</attribute>
+	      <attribute-value>redprice</attribute-value>
+	     </check> 
+	   </checks>
+          </Product>
+          
+       <Product>
+         <Product-name>store info</Product-name>
+	  <url multiple="yes">http://www.asklaila.com/search/</url>
+	  <checks>
+	   <check>
+	    <tag>div</tag>
+	     <attribute>class</attribute>
+	      <attribute-value>nos</attribute-value>
+	     </check> 
+	   <check>
+	    <tag>span</tag>
+	     <attribute>class</attribute>
+	      <attribute-value>listingName</attribute-value>
+	     </check>
+	   <check>
+	    <tag>li</tag>
+	     <attribute>class</attribute>
+	      <attribute-value>curStarRating</attribute-value>
+	     </check>
+	   <check>
+	    <tag>div</tag>
+	     <attribute>class</attribute>
+	      <attribute-value>listLocal</attribute-value>
+	     </check>
+	   </checks>
+          </Product>
+          
+          
+          <Product>
+           <Product-name>veeoz data</Product-name>
+            <url multiple="no">http://www.veooz.com/search?q=</url>
+            <checks>
+            <check>
+            <tag>img</tag>
+	     <attribute>id</attribute>
+	      <attribute-value>greenplus</attribute-value>
+            </check>
+             <check>
+             <tag>img</tag>
+	     <attribute>id</attribute>
+	      <attribute-value>redminus</attribute-value>
+             </check>
+              <check>
+             <tag>img</tag>
+	     <attribute>id</attribute>
+	      <attribute-value>orangedot</attribute-value>
+            </check>
+             <check>
+             <tag>span</tag>
+	     <attribute>id</attribute>
+	      <attribute-value>SPercentValueMale</attribute-value>
+            </check>
+            </checks>
+          </Product>
+          
+           <Product>
+           <Product-name>tourist places</Product-name>
+            <url multiple="yes">http://www.asklaila.com/search/</url>
+            <checks>
+            <check>
+	    <tag>div</tag>
+	     <attribute>class</attribute>
+	      <attribute-value>nos</attribute-value>
+	     </check> 
+            <check>
+            <tag>span</tag>
+	     <attribute>class</attribute>
+	      <attribute-value>listingName</attribute-value>
+            </check>
+             <check>
+             <tag>div</tag>
+	     <attribute>class</attribute>
+	      <attribute-value>listLocal</attribute-value>
+             </check>
+           </checks>
+          </Product>
+          
+          
+	
+	  <Product>
+           <Product-name>latlong data</Product-name>
+            <url multiple="no">http://maps.googleapis.com/maps/api/geocode/xml?address=</url>
+            <checks>
+            <check>
+            <tag>location</tag>
+	     <attribute>lat</attribute>
+	      <attribute-value>null</attribute-value>
+            </check>
+             <check>
+             <tag>location</tag>
+	     <attribute>lng</attribute>
+	      <attribute-value>null</attribute-value>
+             </check>
+           </checks>
+          </Product>
+          
+          
+	  <Product>
+           <Product-name>weather data</Product-name>
+            <url multiple="no">http://api.worldweatheronline.com/free/v1/weather.ashx?q=</url>
+            <checks>
+            <check>
+            <tag>current_condition</tag>
+	     <attribute>temp_C</attribute>
+	      <attribute-value>null</attribute-value>
+            </check>
+             <check>
+             <tag>current_condition</tag>
+	     <attribute>weatherDesc</attribute>
+	      <attribute-value>null</attribute-value>
+             </check>
+              <check>
+             <tag>current_condition</tag>
+	     <attribute>humidity</attribute>
+	      <attribute-value>null</attribute-value>
+             </check>
+              <check>
+             <tag>weather</tag>
+	     <attribute>tempMaxC</attribute>
+	      <attribute-value>null</attribute-value>
+             </check>
+             <check>
+             <tag>weather</tag>
+	     <attribute>tempMinC</attribute>
+	      <attribute-value>null</attribute-value>
+             </check>
+           </checks>
+          </Product>
+          
+	</Product-info>
+    </DOCUMENT>

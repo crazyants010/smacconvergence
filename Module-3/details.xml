@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserRequest>
+    <UserId>1</UserId>
+    <Location>Gachibowli</Location>
+    <City>Hyderabad</City>
+    <Product>
+	<ProductName>washing machine</ProductName>
+	<PriceRange>
+		<Start>9000</Start>
+		<End>9500</End>
+     	</PriceRange>
+	<ShopRating>4</ShopRating>
+    </Product>
+    <Veooz>20</Veooz>
+    <Action>Post</Action>    
+    <Time>200</Time>  
+</UserRequest>

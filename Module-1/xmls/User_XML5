@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserRequest>
+    <UserId>5</UserId>
+    <DeveloperId>1</DeveloperId>
+    <Tourist>
+	<Location></Location>
+     	<Radius>3</Radius>
+    </Tourist>
+    <Product>
+	<ProductName></ProductName>
+	<Location></Location>
+	<PriceRange>
+		<Start></Star>
+		<End></End>
+     	</PriceRange>
+    </Product>
+    <Action></Action>    
+    <Time></Time>  
+</UserRequest>

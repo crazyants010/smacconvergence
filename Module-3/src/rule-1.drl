@@ -1,0 +1,35 @@
+import Productlist;
+
+dialect "mvel"
+global boolean passed;
+
+rule "Price"
+no-loop true
+agenda-group "one"
+    when
+    	p : Productlist( price <= min_price && >= max_price )
+    then
+    	// p.setVeooz_value(Integer.parseInt(call("veooz",p.getCutoff)));
+    	update(p);
+    	drools.setFocus("two");
+end
+
+
+rule "Veooz"
+no-loop true
+agenda-group "two"
+    when
+    	p : Productlist( veooz_vale >= cutoff )
+    then
+    	// p.setVeooz_value(Integer.parseInt(call("veooz",p.getCutoff)));
+    	update(p);
+    	drools.setFocus("two");
+end
+
+rule "shopInfo"
+agenhda-group "three"
+	when
+    	m : Dummy ( status == -1 , message : msg )
+    then
+    
+end

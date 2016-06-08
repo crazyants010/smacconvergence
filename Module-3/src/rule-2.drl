@@ -1,0 +1,29 @@
+import LocationDetails;
+
+global java.util.Vector lIntermediate;
+
+dialect "mvel"
+
+rule "one"
+agenda-group "temperature"
+    when
+    	p : LocationDetails (  temperature >= cutoff_min_temp && <= cutoff_max_temp )
+    then
+    	lIntermediate.add(p);
+end
+
+rule "two"
+agenda-group "veooz"
+    when
+    	p : LocationDetails (  veooz_value >= cutoff_sentiment )
+    then
+    	lIntermediate.add(p);
+end
+
+rule "three"
+agenda-group "humidity"
+    when
+    	l : LocationDetails (  cutOff_humid <= humidity   )
+    then
+    	lIntermediate.add(l);
+end
